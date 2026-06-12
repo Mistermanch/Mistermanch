@@ -1,15 +1,18 @@
-# Mistermanch
+# 💫 About Me:
+## <br>I’m a student 🎓 and hobbyist interested in both hardware ⚙️ and software 💻 systems. I like building and experimenting with electronics, especially when it involves turning ideas into working physical projects.
 
-## About me
-I’m a student 🎓 and hobbyist interested in both hardware ⚙️ and software 💻 systems. I like building and experimenting with electronics, especially when it involves turning ideas into working physical projects.
 
-Most of my current work revolves around Arduino-based systems 🤖, including MIDI-driven setups like Arduino MIDI drums, along with general embedded electronics and DIY hardware experimentation 🔧.
+## 🌐 Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC_PkI-2zi9ciraGsWYs516Q) 
 
-## What I enjoy
-I tend to focus on hardware and embedded systems, but I also spend time with general software development. Outside of that, I’m interested in music technology 🎵, and I occasionally explore game-related projects 🎮 as a hobby.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Mistermanch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Mistermanch&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mistermanch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Skills & tools
-I work with web technologies 🌐 like HTML, CSS, and JavaScript, as well as C, C++, and C#. For hardware work, I use Arduino and basic electronics tools, along with soldering and circuit prototyping 🔌. I’m also comfortable with VS Code, basic Linux usage 🐧, Unity, and some home server experimentation using CasaOS 🏠.
+---
+[![](https://komarev.com/ghpvc/?username=Mistermanch&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Hardware experience
-I have hands-on experience with basic circuit design, soldering, and assembling prototypes. Most of my learning comes from experimenting directly with Arduino projects and troubleshooting real hardware setups ⚡.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
